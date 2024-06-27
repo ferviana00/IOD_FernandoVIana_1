@@ -270,3 +270,259 @@ Received Import Request.
 Start importing Assets/Materials/New Material.mat using Guid(1c222a7c6b7514946b413a17c3adeec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2f93af4fcd36e3c31612fc3342aaab8') in 0.018663 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 218.172269 seconds.
+  path: Assets/Materials/New Material 1.mat
+  artifactKey: Guid(55254bc5d3b8c450cbd382656540fedc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material 1.mat using Guid(55254bc5d3b8c450cbd382656540fedc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76ab5bbebb94a6beb81c7d6fe32df5b7') in 0.022368 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 400.569330 seconds.
+  path: Assets/Materials/BrownMaterial.mat
+  artifactKey: Guid(a9f3e705e001e42c78a3c6e38582784b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/BrownMaterial.mat using Guid(a9f3e705e001e42c78a3c6e38582784b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4b06cbc4c51c69a84eb388c3984af8f') in 0.039853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Materials/New Material 1.mat
+  artifactKey: Guid(55254bc5d3b8c450cbd382656540fedc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material 1.mat using Guid(55254bc5d3b8c450cbd382656540fedc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24f995e0ee08548622641e4324ae25ef') in 0.009757 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 394.591237 seconds.
+  path: Assets/Prefabs/brownHorse.prefab
+  artifactKey: Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/brownHorse.prefab using Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f249f0b8c3db7986ba70c9d0a7b1d217') in 0.017219 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 89
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Prefabs/horse.prefab
+  artifactKey: Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/horse.prefab using Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a13742d1a646698913071a70cdfc49ca') in 0.017055 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 44
+========================================================================
+Received Import Request.
+  Time since last request: 16.879185 seconds.
+  path: Assets/Prefabs/brownHorse.prefab
+  artifactKey: Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/brownHorse.prefab using Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e3402623ac87ed37f7fafdb6e25089d') in 0.016692 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 89
+========================================================================
+Received Import Request.
+  Time since last request: 2.987671 seconds.
+  path: Assets/Prefabs/brownHorse.prefab
+  artifactKey: Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/brownHorse.prefab using Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '315fb5165fd03de8e4edaed86f258744') in 0.007988 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 89
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Prefabs/horse.prefab
+  artifactKey: Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/horse.prefab using Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f1b1809503c8602581c066617c2a6dc') in 0.011656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 44
+========================================================================
+Received Import Request.
+  Time since last request: 1.611681 seconds.
+  path: Assets/Prefabs/brownHorse.prefab
+  artifactKey: Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/brownHorse.prefab using Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae6799174e6afdd4dc368630f772cf57') in 0.014313 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 89
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Prefabs/horse.prefab
+  artifactKey: Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/horse.prefab using Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '774c5bf3960f9e21a555a970f1f7f2a1') in 0.020468 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 44
+========================================================================
+Received Import Request.
+  Time since last request: 1.789414 seconds.
+  path: Assets/Prefabs/brownHorse.prefab
+  artifactKey: Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/brownHorse.prefab using Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1508942f1316d364a58b609b1172ca7') in 0.014068 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 89
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Prefabs/horse.prefab
+  artifactKey: Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/horse.prefab using Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61e209cd0112695419f80c07c5539258') in 0.021271 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 44
+========================================================================
+Received Import Request.
+  Time since last request: 5.628338 seconds.
+  path: Assets/Prefabs/brownHorse.prefab
+  artifactKey: Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/brownHorse.prefab using Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f2b4ab96b0628086d00fc6edfce14c3') in 0.014065 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 89
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Prefabs/horse.prefab
+  artifactKey: Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/horse.prefab using Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f8d6ea653e94fc594886aa981295ad') in 0.022169 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 44
+========================================================================
+Received Import Request.
+  Time since last request: 3.801995 seconds.
+  path: Assets/Prefabs/brownHorse.prefab
+  artifactKey: Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/brownHorse.prefab using Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c355683f5c3c27afb9d3c5a6887e8033') in 0.015409 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 89
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Prefabs/horse.prefab
+  artifactKey: Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/horse.prefab using Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61b9f0d19b3c4205bdb61bb89075e53d') in 0.022431 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 44
+========================================================================
+Received Import Request.
+  Time since last request: 2.387629 seconds.
+  path: Assets/Prefabs/brownHorse.prefab
+  artifactKey: Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/brownHorse.prefab using Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a180f87b7caa13ebf6555679aa8bea5') in 0.014710 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 89
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Prefabs/horse.prefab
+  artifactKey: Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/horse.prefab using Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75796e9d9bb7bdf761c08d774f3c04fc') in 0.021726 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 44
+========================================================================
+Received Import Request.
+  Time since last request: 7.845601 seconds.
+  path: Assets/Prefabs/brownHorse.prefab
+  artifactKey: Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/brownHorse.prefab using Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4efa386938b6aae16f07c1c8e0ad4edc') in 0.014703 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 89
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Prefabs/horse.prefab
+  artifactKey: Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/horse.prefab using Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2cac99eaeef515dc02a358a1791a906') in 0.023329 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 44
+========================================================================
+Received Import Request.
+  Time since last request: 6.230291 seconds.
+  path: Assets/Prefabs/brownHorse.prefab
+  artifactKey: Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/brownHorse.prefab using Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f4678d29027b8e7ff583410f61d0f5') in 0.014499 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 89
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Prefabs/horse.prefab
+  artifactKey: Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/horse.prefab using Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd5118ed8ab089b833612081f387098') in 0.020066 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 44
+========================================================================
+Received Import Request.
+  Time since last request: 6.425962 seconds.
+  path: Assets/Prefabs/brownHorse.prefab
+  artifactKey: Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/brownHorse.prefab using Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff218c1a49de708bdec90d9dcfb4462f') in 0.014419 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 89
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Prefabs/horse.prefab
+  artifactKey: Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/horse.prefab using Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ce957e19630aa4e75807722e2ed2e21') in 0.020446 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 44
+========================================================================
+Received Import Request.
+  Time since last request: 1.169654 seconds.
+  path: Assets/Prefabs/brownHorse.prefab
+  artifactKey: Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/brownHorse.prefab using Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bc509564a6bc2720d712ec1afa2fe0a') in 0.014073 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 89
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Prefabs/horse.prefab
+  artifactKey: Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/horse.prefab using Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be466a8c707236842afa2152e5b22c19') in 0.020344 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 44
+========================================================================
+Received Import Request.
+  Time since last request: 2.907097 seconds.
+  path: Assets/Prefabs/brownHorse.prefab
+  artifactKey: Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/brownHorse.prefab using Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df7e17b959da58e2f7e92ba394db14ca') in 0.014672 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 99
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Prefabs/horse.prefab
+  artifactKey: Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/horse.prefab using Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9917bd5fb4f7b9b23fa6035065dbdc96') in 0.018362 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 49
+========================================================================
+Received Import Request.
+  Time since last request: 6.395968 seconds.
+  path: Assets/Prefabs/brownHorse.prefab
+  artifactKey: Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/brownHorse.prefab using Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7aa1562f30d70ad6bad23fd01452a65') in 0.014719 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 99
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Prefabs/horse.prefab
+  artifactKey: Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/horse.prefab using Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a728b83ad6dcd4900149c98fc5e40347') in 0.020501 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 49
+========================================================================
+Received Import Request.
+  Time since last request: 3.188009 seconds.
+  path: Assets/Prefabs/brownHorse.prefab
+  artifactKey: Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/brownHorse.prefab using Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '244ab4ee2e547384e02722c9110b024d') in 0.012956 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 99
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Prefabs/horse.prefab
+  artifactKey: Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/horse.prefab using Guid(9366839e47d1a439780743cf23e4e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6693753b1bff394daff96ce324169708') in 0.022183 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 49
