@@ -702,3 +702,11 @@ Received Import Request.
 Start importing Assets/Prefabs/alforja.prefab using Guid(86f17d4b5dc4047e482c8c64777ff5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c795d19967cba4e2584b645b46212389') in 0.007678 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 78.748892 seconds.
+  path: Assets/Materials/EyesMaterial.mat
+  artifactKey: Guid(c3c3ce2687daf4dfcb9e0df88b529788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/EyesMaterial.mat using Guid(c3c3ce2687daf4dfcb9e0df88b529788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7fae4bf748e96c1d5ff4aaca80f007b') in 0.032934 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
