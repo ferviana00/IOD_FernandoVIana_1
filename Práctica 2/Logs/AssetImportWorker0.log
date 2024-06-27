@@ -246,3 +246,27 @@ Received Import Request.
 Start importing Assets/Prefabs/brownHorse.prefab using Guid(3edea8be4c7174e7195ec4192fac5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5b50537f07f00444587b2c23afdbb96') in 0.014729 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 79
+========================================================================
+Received Import Request.
+  Time since last request: 152.608686 seconds.
+  path: Assets/Prefabs/horse Variant.prefab
+  artifactKey: Guid(95c379707634747cbb29e1cd29e12951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/horse Variant.prefab using Guid(95c379707634747cbb29e1cd29e12951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4e3e458f5a021b8993bfcbe58290ea0') in 0.016361 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 118
+========================================================================
+Received Import Request.
+  Time since last request: 7.397039 seconds.
+  path: Assets/Prefabs/grayHorse.prefab
+  artifactKey: Guid(95c379707634747cbb29e1cd29e12951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/grayHorse.prefab using Guid(95c379707634747cbb29e1cd29e12951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d03a574afe4a0f23be401abd6a9025') in 0.020366 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 118
+========================================================================
+Received Import Request.
+  Time since last request: 19.953935 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(1c222a7c6b7514946b413a17c3adeec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(1c222a7c6b7514946b413a17c3adeec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2f93af4fcd36e3c31612fc3342aaab8') in 0.018663 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
